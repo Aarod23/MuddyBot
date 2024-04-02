@@ -1,4 +1,3 @@
-Sure, here's a basic guide for a beginner on how to set up and run the provided code locally:
 
 ---
 
